@@ -1,1 +1,1 @@
-A program that say hello
+A program that says hello
